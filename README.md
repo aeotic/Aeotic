@@ -1,5 +1,6 @@
+
 <p align="center">
-<img width="703" height="703" alt="5ac36484977797d7551a2d3413d7b171" src="https://github.com/user-attachments/assets/3799583b-f427-468c-8a96-11c7cd3f0346" />
+  <img width="748" height="249" alt="2" src="https://github.com/user-attachments/assets/9e885f5b-7ff8-473b-9071-4af41bc35e3b" />
 </p>
 
 # core skills
