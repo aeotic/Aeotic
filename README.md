@@ -4,7 +4,9 @@ Aeotic
 </p>
 
 core skills
+
 <img src="https://skillicons.dev/icons?i=python,go,cs,js,c,css,sqlite,fastapi,nodejs,postman,redis,git,vite,docker,linux" />
+
 - Languages: python - golang - c# - javascript - c - css - sql
 - Backend: FastAPI - Node.js - REST Apis
 - databases: SQLite - Redis
